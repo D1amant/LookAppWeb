@@ -1,3 +1,5 @@
+ config/auth.php --  update locate model user 
+
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
